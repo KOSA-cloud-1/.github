@@ -36,7 +36,7 @@
 
 * app
 * docs
-* kubernetes-manifest
+* k8s-manifest
 * infra-aws
 * infra-proxmox
 
@@ -46,5 +46,5 @@
 
 아래 문서를 참고하세요:
 
-→ `.github/CONTRIBUTING.md`
+→ [`.github/CONTRIBUTING.md`](https://github.com/KOSA-cloud-1/.github/blob/main/CONTRIBUTING.md)
 
