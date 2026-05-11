@@ -161,7 +161,5 @@ feat: 상품 서비스 배포 추가
 
 * direct push 금지
 * Pull Request 필수
-```
 
----
 
