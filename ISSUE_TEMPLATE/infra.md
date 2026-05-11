@@ -5,7 +5,7 @@ about: 인프라 작업 관리
 title: "[INFRA] "
 labels: infra
 assignees: ""
--------------
+---
 
 ## 작업 목적 (Purpose)
 
